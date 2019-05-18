@@ -66,7 +66,7 @@ En effet, si l'un de vos containers est compromis par un logiciel malveillant
 (pas seulement celui contenant les applications en interface graphique),
 un pirate pourrait prendre la main sur le serveur X de votre machine hôte.
 Ce cas de figure est peu probable, mais il est importante de l'avoir à l'esprit.
-D'autres méthodes plus complexes permettent de s'assurer d'une meilleure isolation : voir https://wiki.ros.org/docker/Tutorials/GUI#Using_X_server.
+D'autres méthodes plus complexes permettent de s'assurer d'une meilleure isolation : voir [ici](https://wiki.ros.org/docker/Tutorials/GUI#Using_X_server).
 
 Vous pouvez exécuter la commande ```xhost -local:docker``` à la fin de votre utilisation du container pour réactiver l'isolation.
 
@@ -119,10 +119,10 @@ N'hésitez pas à me faire part de vos questions ou commentaires concernant cet 
 
 # References
 
-https://docs.docker.com/install/linux/docker-ce/ubuntu/
+<https://docs.docker.com/install/linux/docker-ce/ubuntu/>
 
-https://forums.docker.com/t/start-a-gui-application-as-root-in-a-ubuntu-container/17069
+<https://forums.docker.com/t/start-a-gui-application-as-root-in-a-ubuntu-container/17069>
 
-http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
+<http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/>
 
-https://wiki.ros.org/docker/Tutorials/GUI
+<https://wiki.ros.org/docker/Tutorials/GUI>
