@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GUI avec Docker (Ubuntu)"
-date:   2019-18-05 16:00:00 +0100
+date:   2019-05-18 16:00:00 +0100
 categories: Développement Docker
 ---
 ![logo docker](/assets/docker-logo.png)
